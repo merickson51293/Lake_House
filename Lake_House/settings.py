@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'Lake_app',
+    'Lake_App',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
